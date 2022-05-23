@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning vue js
 - 💞️ I’m looking to collaborate on laravel projects
 - 📫 How to reach me ->
-- 📱 +9779813815279 
 - 📧 preasundahal@gmail.com
 - 🔥 https://prasundahal.com.np/
 <!---
